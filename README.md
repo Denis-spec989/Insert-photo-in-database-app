@@ -21,6 +21,7 @@ ___
 В нашей базе данных уже лежат фотографии.(Эти фотографии добавлялись при предыдущих тестах программы)
 
 **Добавим еще одну фотографию**.
+
 ![avat](https://sun9-13.userapi.com/impg/HhdWJohLLF3QaKwLBPgECgOZhQz7u9iOaOrNZA/9l33-ICbats.jpg?size=450x253&quality=96&sign=fdfedcc0ea2436654f40388fdf17fd65&type=album)
 
 **Просмотрим где лежит наше изображение**.
